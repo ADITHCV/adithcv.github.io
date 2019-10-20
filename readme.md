@@ -1,6 +1,6 @@
 ## My protfolio websitie
 
-  [www.adithcv.github.io]{http://adithcv.github.io)
+  [www.adithcv.github.io](http://adithcv.github.io)
   
 ## This was a single page portfolio page
 
